@@ -1,0 +1,19 @@
+PODS:
+  - FLAnimatedImage (1.0.12)
+  - SDWebImage/Core (4.0.0)
+  - SDWebImage/GIF (4.0.0):
+    - FLAnimatedImage (~> 1.0)
+    - SDWebImage/Core
+
+DEPENDENCIES:
+  - FLAnimatedImage
+  - SDWebImage/Core
+  - SDWebImage/GIF
+
+SPEC CHECKSUMS:
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: e140096700d62d79ebc87da4bd9cb6a9fb48893e
+
+COCOAPODS: 1.2.0.rc.1
